@@ -1,2 +1,4 @@
+polars
 unidecode
 jupyter
+matplotlib
