@@ -1,0 +1,88 @@
+hisco_12,hisco_1,hisco_2,label,abs,rel
+0_,0,_,"PROFESSIONAL, TECHNICAL AND RELATED WORKERS",178,0.0261
+01,0,1,Physical Scientists And Related Technicians,7,0.0010
+02,0,2,"Architects, Engineers And Related Technicians",60,0.0088
+03,0,3,"Architects, Engineers And Related Technicians",38,0.0056
+04,0,4,Aircraft And Ships\' Officers,3,0.0004
+05,0,5,Life Scientists And Related Technicians,4,0.0006
+06,0,6,"Medical, Dental, Veterinary And Related Workers",35,0.0051
+07,0,7,"Medical, Dental, Veterinary And Related Workers",26,0.0038
+08,0,8,"Statisticians, Mathematicians, Systems Analysts And Related Technicians",1,0.0001
+09,0,9,Economists,4,0.0006
+1_,1,_,"PROFESSIONAL, TECHNICAL AND RELATED WORKERS",300,0.0440
+11,1,1,Accountants,7,0.0010
+12,1,2,Jurists,23,0.0034
+13,1,3,Teachers,42,0.0062
+14,1,4,Workers In Religion,146,0.0214
+15,1,5,"Authors, Journalists And Related Writers",3,0.0004
+16,1,6,"Sculptors, Painters, Photographers And Related Creative Artists",31,0.0045
+17,1,7,Composers And Performing Artists,38,0.0056
+18,1,8,"Athletes, Sportsmen And Related Workers",1,0.0001
+19,1,9,"Professional, Technical And Related Workers Not Elsewhere Classified",9,0.0013
+2_,2,_,ADMINISTRATIVE AND MANAGERIAL WORKERS,254,0.0373
+20,2,0,Legislative Officials And Government Administrators,16,0.0023
+21,2,1,Managers,157,0.0230
+22,2,2,"Supervisors, Foremen And Inspectors",81,0.0119
+3_,3,_,CLERICAL AND RELATED WORKERS,519,0.0761
+30,3,0,"Clerical And Related Workers, Specialisation Unknown",3,0.0004
+31,3,1,Government Executive Officials,23,0.0034
+32,3,2,"Stenographers, Typists And Card- And Tape-Punching Machine Operators",20,0.0029
+33,3,3,"Bookkeepers, Cashiers And Related Workers",106,0.0155
+34,3,4,Computing Machine Operators,0,0.0000
+36,3,6,Transport Conductors,22,0.0032
+37,3,7,Mail Distribution Clerks,159,0.0233
+38,3,8,Telephone And Telegraph Operators,0,0.0000
+39,3,9,Clerical And Related Workers Not Elsewhere Classified,186,0.0273
+4_,4,_,SALES WORKERS,495,0.0726
+41,4,1,Working Proprietors (Wholesale And Retail Trade),344,0.0505
+42,4,2,Buyers,0,0.0000
+43,4,3,"Technical Salesmen, Commercial Travellers And Manufacturers Agents",119,0.0175
+44,4,4,"Insurance, Real Estate, Securities And Business Services Salesmen And Auctioneers",11,0.0016
+45,4,5,"Salesmen, Shop Assistants And Related Workers",21,0.0031
+49,4,9,Sales Workers Not Elsewhere Classified,0,0.0000
+5_,5,_,SERVICE WORKERS,725,0.1063
+51,5,1,"Working Proprietors (Catering, Lodging And Leisure Services)",108,0.0158
+53,5,3,"Cooks, Waiters, Bartenders And Related Workers",122,0.0179
+54,5,4,Maids And Related Housekeeping Service Workers Not Elsewhere Classified,328,0.0481
+55,5,5,"Building Caretakers, Charworkers, Cleaners And Related Workers",18,0.0026
+56,5,6,"Launderers, Dry-Cleaners And Pressers",11,0.0016
+57,5,7,"Hairdressers, Barbers, Beauticians And Related Workers",45,0.0066
+58,5,8,Protective Service Workers,80,0.0117
+59,5,9,Service Workers Not Elsewhere Classified,13,0.0019
+6_,6,_,"AGRICULTURAL, ANIMAL HUSBANDRY AND FORESTRY WORKERS, FISHERMEN AND HUNTERS",972,0.1426
+61,6,1,Farmers,788,0.1156
+62,6,2,Agricultural And Animal Husbandry Workers,154,0.0226
+63,6,3,Forestry Workers,26,0.0038
+64,6,4,"Fishermen, Hunters And Related Workers",4,0.0006
+7_,7,_,"PRODUCTION AND RELATED WORKERS, TRANSPORT EQUIPMENT OPERATORS AND LABOURERS",519,0.0761
+71,7,1,"Miners, Quarrymen, Well-Drillers And Related Workers",15,0.0022
+72,7,2,Metal Processors,19,0.0028
+73,7,3,Wood Preparation Workers And Paper Makers,21,0.0031
+74,7,4,Chemical Processors And Related Workers,2,0.0003
+75,7,5,"Spinners, Weavers, Knitters, Dyers And Related Workers",18,0.0026
+76,7,6,"Tanners, Fellmongers And Pelt Dressers",5,0.0007
+77,7,7,Food And Beverage Processors,310,0.0455
+78,7,8,Tobacco Preparers And Tobacco Product Makers,2,0.0003
+79,7,9,"Tailors, Dressmakers, Sewers, Upholsterers And Related Workers",127,0.0186
+8_,8,_,"PRODUCTION AND RELATED WORKERS, TRANSPORT EQUIPMENT OPERATORS AND LABOURERS",811,0.1189
+80,8,0,Shoemakers And Leather Goods Makers,87,0.0128
+81,8,1,Cabinetmakers And Related Woodworkers,136,0.0199
+82,8,2,Stone Cutters And Carvers,2,0.0003
+83,8,3,"Blacksmiths, Toolmakers And Machine-Tool Operators",108,0.0158
+84,8,4,"Machinery Fitters, Machine Assemblers And Precision-Instrument Makers (Except Electrical)",186,0.0273
+85,8,5,Electrical Fitters And Related Electrical And Electronics Workers,54,0.0079
+86,8,6,Broadcasting And Sound-Equipment Operators And Cinema Projectionists,0,0.0000
+87,8,7,"Plumbers, Welders, Sheet-Metal, And Structural Metal Preparers And Erectors",208,0.0305
+88,8,8,Jewellers And Precious Metal Workers,6,0.0009
+89,8,9,"Glass Formers, Potters And Related Workers",24,0.0035
+9_,9,_,"PRODUCTION AND RELATED WORKERS, TRANSPORT EQUIPMENT OPERATORS AND LABOURERS",1560,0.2288
+90,9,0,Rubber And Plastics Product Makers,2,0.0003
+91,9,1,Paper And Paperboard Products Makers,0,0.0000
+92,9,2,Printers And Related Workers,33,0.0048
+93,9,3,Painters,77,0.0113
+94,9,4,Production And Related Workers Not Elsewhere Classified,28,0.0041
+95,9,5,"Bricklayers, Carpenters And Other Construction Workers",216,0.0317
+96,9,6,Stationary Engine And Related Equipment Operators,28,0.0041
+97,9,7,"Material Handling And Related Equipment Operators, Dockers And Freight Handlers",65,0.0095
+98,9,8,Transport Equipment Operators,181,0.0265
+99,9,9,Workers Not Elsewhere Classified,930,0.1364
